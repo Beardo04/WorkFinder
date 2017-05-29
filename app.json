@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "sdkVersion": "17.0.0",
+    "name":"Work Finder",
+    "version":"0.1.0",
+    "android":{
+      "package":"com.workfinder.exp"
+    },
+    "icon":"work.png",
+    "slug":"workfinder"
+  }
+}
